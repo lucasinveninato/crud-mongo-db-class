@@ -20,4 +20,4 @@ To install pymongo 4.5.0, you can use pip:
 pip install pymongo==4.5.0
 ```
 
-###In this app, you can see a simple use of the class, adapt it for your own use, and have fun!
+### In this app, you can see a simple use of the class, adapt it for your own use, and have fun!
